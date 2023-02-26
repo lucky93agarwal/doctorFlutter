@@ -9,6 +9,8 @@ This is a dark theme of the interface that can be used at any time of night and 
 
 
 # Screenshot
+![original-94a881ae1ce29596ed6ee1592e1b946d](https://user-images.githubusercontent.com/53622073/221412036-fe62f3f9-13c9-4921-8a5a-377d9860de25.jpg)
+
 ![WhatsApp Image 2023-02-25 at 21 02 26](https://user-images.githubusercontent.com/53622073/221365773-870893e9-3176-46da-b8ea-ad2b10a9dac7.jpeg)
 
 ![WhatsApp Image 2023-02-25 at 21 02 43](https://user-images.githubusercontent.com/53622073/221365781-0d0c1655-c866-4303-a01e-1f3d2a20093d.jpeg)
